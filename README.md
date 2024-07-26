@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mateenshoy25469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateenshoy25469" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaik shoyab mateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik shoyab mateen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaik-shoyab-mateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-shoyab-mateen" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr_ma3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_ma3_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/varunian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="varunian" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shoyabmateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shoyabmateen" height="30" width="40" /></a>
